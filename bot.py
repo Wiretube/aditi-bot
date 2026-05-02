@@ -6,7 +6,7 @@ from telegram.ext import (
     CallbackQueryHandler, ContextTypes, filters
 )
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8645677396:AAFCpEfQ_y-ISuze_fh_ygRZ-9wj5aIL5vI")
+BOT_TOKEN = os.environ.get("8645677396:AAFCpEfQ_y-ISuze_fh_ygRZ-9wj5aIL5vI")
 PRIVATE_CHANNEL_LINK = "https://t.me/+iqzHV_L7QYIzYjk1"
 UPI_ID = "aditiaditi3323@okicici"
 PRICE = "199"
